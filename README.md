@@ -6,7 +6,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mim  
 
 - <p><em><em>🧠 Atualmente estudando Python, Data Science e ML</p>
-- <p><em>👩‍💻 Meta do ano: Desenvolver e aperfeiçoar habilidades<em></p>
+- <p><em>👩🏻‍💻 Meta do ano: Desenvolver e aperfeiçoar habilidades<em></p>
 - <p><em>😺 I'm a cat person<em></p>
 <br />
 <br />
