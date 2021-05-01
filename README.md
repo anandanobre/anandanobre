@@ -14,7 +14,6 @@
 <br />
 
 
-
 ### Pode me achar em
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anandanobre)](https://github.com/anandanobre)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail&logoColor=#E4405F&link=mailto:anandakarenbn@gmail.com)](mailto:anandakarenbn@gmail.com)
