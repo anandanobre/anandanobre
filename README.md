@@ -9,6 +9,7 @@
 - <p><em>🧠 Atualmente estudando Python, Data Science e ML<em></p>
 - <p><em><em></p>
 - <p><em><em></p>
+- <p><em><em></p>
 
 
 
