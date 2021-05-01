@@ -8,6 +8,8 @@
 - <p><em><em></p>
 - <p><em>🧠 Atualmente estudando Python, Data Science e ML<em></p>
 - <p><em><em></p>
+- <p><em><em></p>
+
 
 ### Pode me achar em
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anandanobre)](https://github.com/anandanobre)
